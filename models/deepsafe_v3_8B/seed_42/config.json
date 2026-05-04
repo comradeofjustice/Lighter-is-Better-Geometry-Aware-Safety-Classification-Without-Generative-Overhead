@@ -1,0 +1,14 @@
+{
+  "seed": 42,
+  "input_dim": 4096,
+  "output_dim": 256,
+  "n_train_samples": 256868,
+  "n_label_corrections": 19154,
+  "classifier_metrics": {
+    "accuracy": 0.8606576522799824,
+    "f1_macro": 0.8640518572911655,
+    "roc_auc": 0.9353686160980713,
+    "best_val_acc": 0.8606576323509216
+  },
+  "timestamp": "2026-05-04T04:06:11.117102"
+}
